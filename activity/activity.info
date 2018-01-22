@@ -1,0 +1,8 @@
+[Activity]
+name = Conozco Honduras
+activity_version = 1.0
+host_version = 1
+bundle_id = roberto.zapata.conozcohonduras
+icon = activity
+exec = sugar-activity activity.Activity
+license = GPL+

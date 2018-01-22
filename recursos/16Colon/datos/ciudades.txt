@@ -1,0 +1,15 @@
+#Ciudad|posx|posy|tipo|textoxincremento|textoyincremento
+# tipo 1 = capital deptal, 2 = ciudad, 5 = cerro, 6 = punto de interes
+# capitales
+Tegucigalpa|300|500|1|1|1
+# ciudades
+Comayagua|255|460|2|1|1
+San Pedro Sula|215|360|2|1|0
+Santa Rosa de Copán|128|440|2|45|5
+Lempira|153|500|2|1|0
+Santa Bárbara|180|410|2|0|12
+# puntos historicos
+Copán Ruinas|120|420|6|0|15
+Lago de Yojoa|270|465|6|0|15
+# puntos turisticos
+# cerros

@@ -1,0 +1,19 @@
+# Depto|codigo color (rojo)|ubic. texto x|y|rotacion nombre
+# departamentos
+Balfate|250|109|360|25
+Sonaguera|240|124|412|0
+Sabá|230|193|487|0
+Tocoa|220|276|429|0
+Trujillo|210|280|329|0
+Santa Fé|200|208|302|0
+Santa Rosa de Aguan|190|414|278|0
+Limón|180|484|335|0
+Iriona|170|595|433|0
+Bonito Oriente|160|381|376|0
+# paises limitrofes
+Atlántida|80|15|402|90
+Yoro|70|32|482|0
+Olancho|60|331|586|0
+Gracias a Dios|50|764|564|90
+Mar Caribe|40|427|240|0
+# fin

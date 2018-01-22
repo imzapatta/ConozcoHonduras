@@ -1,0 +1,31 @@
+# Depto|codigo color (rojo)|ubic. texto x|y|rotacion nombre
+# departamentos
+Lamaní|250|390|734|0
+San Sebastian|240|240|695|0
+Humuya|230|365|685|0
+Villas de San Antonio|220|435|625|0
+Comayagua|210|377|506|0
+Ajuterique|200|312|570|30
+Lejamam|190|335|605|0
+Esquías|180|565|361|0
+San Jerónimo|170|452|342|-90
+El Rosario|160|345|405|0
+Siguatepeque|150|225|390|0
+San José de Comayagua|140|115|295|-90
+Taulabe|130|176|322|-90
+Meámbar|120|286|253|0
+La Libertad|110|380|131|0
+Las Lajas|100|390|225|0
+Ojo de Agua|90|356|300|0
+La Trinidad|80|334|334|0
+Minas de Oro|70|520|215|-40
+San Luis|60|525|300|0
+San José del Potrero|50|588|192|-40
+# paises limitrofes
+Francisco Morazán|40|650|478|-90
+La Paz|30|137|719|0
+Intibucá|20|130|516|0
+Cortés|10|183|197|0
+Yoro|5|556|107|0
+Santa Bárbara|15|86|250|-90
+# fin

@@ -1,0 +1,16 @@
+# Depto|codigo color (rojo)|ubic. texto x|y|rotacion nombre
+# departamentos
+Caridad|255|278|137|0
+Aramecina|240|245|267|45
+Goascorán|230|197|423|0
+Alianza|220|198|625|45
+Nacaome|210|406|509|0
+Amapala|200|346|684|0
+San Lorenzo|190|539|570|85
+Langue|180|318|353|0
+San Francisco de Corays|170|408|307|0
+# paises limitrofes
+Choluteca|80|702|378|-90
+El Salvador|70|98|503|90
+Francisco Morazán|60|380|144|0
+# fin

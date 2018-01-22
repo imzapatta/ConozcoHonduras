@@ -1,0 +1,63 @@
+# Configuración de niveles
+# Formato:
+# Prefijo indica una posible parte inicial de la pregunta
+# Sufijo indica una posible parte final de la pregunta
+# Cada nivel empieza con su nombre entre parentesis rectos
+# Variables:
+#  - dibujoInicial lista de cosas a dibujar en el mapa al inicio del nivel
+#     lineasDepto,capitales
+#  - nombreInicial lista de cosas a etiquetar en el mapa al inicio del nivel
+#     deptos,capitales
+# Cada pregunta es una linea que se inicia con Pregunta =
+# sigue el texto de la pregunta (lineas separadas con \)
+# sigue el tipo de respuesta y el ID de la respuesta correcta
+# finalmente el texto de ayuda si el estudiante se equivoca dos veces
+#  tipo de respuesta: 1 depto, 2 ciudad, 3 rio, 4 cuchilla, 5 cerro, 6 ruta
+#  ID de respuesta: string con el nombre
+#  texto de ayuda: string (lineas separadas con \)
+
+Prefijo = Tenemos que buscar\una pieza de mi nave en
+Prefijo = Hay una pieza\de mi nave en
+Prefijo = Según mi información\tenemos que buscar en
+Prefijo = Tenemos que\ir hasta
+Prefijo = Una pieza de mi\cohete cayó en
+
+Sufijo = ¿Podrías señalar dónde está?
+Sufijo = ¿Dónde queda?
+Sufijo = ¿Vamos hasta ahí?
+Sufijo = ¿Me llevás?
+Sufijo = ¿Puedes mostrarme dónde está?
+
+Correcto = ¡Muy bien!
+Correcto = ¡Genial!
+Correcto = ¡Lo encontraste!
+Correcto = ¡Sí!
+
+Mal = No, intentá de nuevo
+Mal = Aquí no está
+Mal = Parece que no es aquí
+Mal = Seguí probando...
+
+Despedida = Ahora puedo volver\a mi planeta.\¡Gracias por tu ayuda!
+Despedida = Mi nave está lista.\¡Adiós y gracias por ayudarme!
+Despedida = ¡Lo hicimos!\Estoy listo para despegar.\¡Hasta la próxima!
+
+[Municipios]
+dibujoInicial = lineasDepto
+nombreInicial = 
+Pregunta = el municipio\de Santa Fé|1|Santa Fé|Dale, probá de nuevo
+Pregunta = el municipio\de Ocotepeque|1|Ocotepeque|Dale, probá de nuevo
+Pregunta = el municipio\de Sinuapa|1|Sinuapa|Dale, probá de nuevo
+Pregunta = el municipio\de Concepción|1|Concepción|Dale, probá de nuevo
+Pregunta = el municipio\de Dolores Merendón|1|Dolores Merendón|Dale, probá de nuevo
+Pregunta = el municipio\de Fraternidad|1|Fraternidad|Dale, probá de nuevo
+Pregunta = el municipio\de San Jorge|1|San Jorge|Dale, probá de nuevo
+Pregunta = el municipio\de San Fernando|1|San Fernando|Dale, probá de nuevo
+Pregunta = el municipio\de La Encarnación|1|La Encarnación|Dale, probá de nuevo
+Pregunta = el municipio\de Lucerna|1|Lucerna|Dale, probá de nuevo
+Pregunta = el municipio\de Sensenti|1|Sensenti|Dale, probá de nuevo
+Pregunta = el municipio\de La Labor|1|La Labor|Dale, probá de nuevo
+Pregunta = el municipio\de San Francisco del Valle|1|San Francisco del Valle|Dale, probá de nuevo
+Pregunta = el municipio\de San Marcos|1|San Marcos|Dale, probá de nuevo
+Pregunta = el municipio\de Mercedes|1|Mercedes|Dale, probá de nuevo
+Pregunta = el municipio\de Belén Gualcho|1|Belén Gualcho|Dale, probá de nuevo

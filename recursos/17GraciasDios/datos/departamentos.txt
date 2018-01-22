@@ -1,0 +1,14 @@
+# Depto|codigo color (rojo)|ubic. texto x|y|rotacion nombre
+# departamentos
+Juan Francisco Bulnes|250|118|255|0
+Brus Laguna|240|139|395|0
+Ahuas|230|285|414|0
+Wampusirpi|220|150|559|30
+Puerto Lempira|210|346|527|0
+Ramón Villeda Morales|200|569|516|0
+# paises limitrofes
+Nicaragua|80|403|649|0
+Olancho|70|38|630|90
+Colón|60|24|360|0
+Mar Caribe|50|505|331|0
+# fin

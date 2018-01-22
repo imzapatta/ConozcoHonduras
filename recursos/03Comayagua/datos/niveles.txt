@@ -1,0 +1,69 @@
+# Configuración de niveles
+# Formato:
+# Prefijo indica una posible parte inicial de la pregunta
+# Sufijo indica una posible parte final de la pregunta
+# Cada nivel empieza con su nombre entre parentesis rectos
+# Variables:
+#  - dibujoInicial lista de cosas a dibujar en el mapa al inicio del nivel
+#     lineasDepto,capitales
+#  - nombreInicial lista de cosas a etiquetar en el mapa al inicio del nivel
+#     deptos,capitales
+# Cada pregunta es una linea que se inicia con Pregunta =
+# sigue el texto de la pregunta (lineas separadas con \)
+# sigue el tipo de respuesta y el ID de la respuesta correcta
+# finalmente el texto de ayuda si el estudiante se equivoca dos veces
+#  tipo de respuesta: 1 depto, 2 ciudad, 3 rio, 4 cuchilla, 5 cerro, 6 ruta
+#  ID de respuesta: string con el nombre
+#  texto de ayuda: string (lineas separadas con \)
+
+Prefijo = Tenemos que buscar\una pieza de mi nave en
+Prefijo = Hay una pieza\de mi nave en
+Prefijo = Según mi información\tenemos que buscar en
+Prefijo = Tenemos que\ir hasta
+Prefijo = Una pieza de mi\cohete cayó en
+
+Sufijo = ¿Podrías señalar dónde está?
+Sufijo = ¿Dónde queda?
+Sufijo = ¿Vamos hasta ahí?
+Sufijo = ¿Me llevás?
+Sufijo = ¿Puedes mostrarme dónde está?
+
+Correcto = ¡Muy bien!
+Correcto = ¡Genial!
+Correcto = ¡Lo encontraste!
+Correcto = ¡Sí!
+
+Mal = No, intentá de nuevo
+Mal = Aquí no está
+Mal = Parece que no es aquí
+Mal = Seguí probando...
+
+Despedida = Ahora puedo volver\a mi planeta.\¡Gracias por tu ayuda!
+Despedida = Mi nave está lista.\¡Adiós y gracias por ayudarme!
+Despedida = ¡Lo hicimos!\Estoy listo para despegar.\¡Hasta la próxima!
+
+[Municipios]
+dibujoInicial = lineasDepto
+nombreInicial = 
+Pregunta = el municipio\de Lamaní|1|Lamaní|Dale, probá de nuevo
+Pregunta = el municipio\de San Sebastian|1|San Sebastian|Dale, probá de nuevo
+Pregunta = el municipio\de Humuya|1|Humuya|Dale, probá de nuevo
+Pregunta = el municipio\de Villas de San Antonio|1|Villas de San Antonio|Dale, probá de nuevo
+Pregunta = el municipio\de Comayagua|1|Comayagua|Dale, probá de nuevo
+Pregunta = el municipio\de Ajuterique|1|Ajuterique|Dale, probá de nuevo
+Pregunta = el municipio\de Lejamam|1|Lejamam|Dale, probá de nuevo
+Pregunta = el municipio\de Esquías|1|Esquías|Dale, probá de nuevo
+Pregunta = el municipio\de San Jeronímo|1|San Jeronímo|Dale, probá de nuevo
+Pregunta = el municipio\de El Rosario|1|El Rosario|Dale, probá de nuevo
+Pregunta = el municipio\de Siguatepeque|1|Siguatepeque|Dale, probá de nuevo
+Pregunta = el municipio\de San José de Comayagua|1|San José de Comayagua|Dale, probá de nuevo
+Pregunta = el municipio\de Taulabe|1|Taulabe|Dale, probá de nuevo
+Pregunta = el municipio\de Meámbar|1|Meámbar|Dale, probá de nuevo
+Pregunta = el municipio\de La Libertad|1|La Libertad|Dale, probá de nuevo
+Pregunta = el municipio\de Las Lajas|1|Las Lajas|Dale, probá de nuevo
+Pregunta = el municipio\de Ojo de Agua|1|Ojo de Agua|Dale, probá de nuevo
+Pregunta = el municipio\de La Trinidad|1|La Trinidad|Dale, probá de nuevo
+Pregunta = el municipio\de Minas de Oro|1|Minas de Oro|Dale, probá de nuevo
+Pregunta = el municipio\de San Luis|1|San Luis|Dale, probá de nuevo
+Pregunta = el municipio\de San José de Potrero|1|San José de Potrero|Dale, probá de nuevo
+

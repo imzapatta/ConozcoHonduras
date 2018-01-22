@@ -1,0 +1,28 @@
+# Depto|codigo color (rojo)|ubic. texto x|y|rotacion nombre
+# departamentos
+Santa Elena|255|100|495|0
+Yarula|240|179|418|-45
+Marcala|230|206|381|0
+Chinacia|220|315|395|0
+San José|210|325|349|0
+Santa María|200|336|274|0
+Santiago de Puringla|190|317|211|0
+La Paz|180|503|249|0
+Cane|170|589|287|0
+San Pedro de Tutule|160|431|310|0
+Guajiquiro|150|473|502|0
+Opatoro|140|389|557|0
+Santa Ana|130|340|550|-50
+Cabañas|120|243|584|0
+Aguaqueterique|110|657|497|-90
+Mercedes de Oriente|100|500|627|-45
+San Antonio del Norte|90|545|665|0
+Lauterique|40|608|711|0
+San Juan|20|521|606|0
+# paises limitrofes
+El Salvador|80|290|728|0
+Valle|70|596|749|-90
+Francisco Morazán|60|691|461|-90
+Comayagua|50|553|370|0
+Intibucá|30|120|248|0
+# fin

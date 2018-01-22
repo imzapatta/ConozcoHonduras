@@ -1,0 +1,58 @@
+# Configuración de niveles
+# Formato:
+# Prefijo indica una posible parte inicial de la pregunta
+# Sufijo indica una posible parte final de la pregunta
+# Cada nivel empieza con su nombre entre parentesis rectos
+# Variables:
+#  - dibujoInicial lista de cosas a dibujar en el mapa al inicio del nivel
+#     lineasDepto,capitales
+#  - nombreInicial lista de cosas a etiquetar en el mapa al inicio del nivel
+#     deptos,capitales
+# Cada pregunta es una linea que se inicia con Pregunta =
+# sigue el texto de la pregunta (lineas separadas con \)
+# sigue el tipo de respuesta y el ID de la respuesta correcta
+# finalmente el texto de ayuda si el estudiante se equivoca dos veces
+#  tipo de respuesta: 1 depto, 2 ciudad, 3 rio, 4 cuchilla, 5 cerro, 6 ruta
+#  ID de respuesta: string con el nombre
+#  texto de ayuda: string (lineas separadas con \)
+
+Prefijo = Tenemos que buscar\una pieza de mi nave en
+Prefijo = Hay una pieza\de mi nave en
+Prefijo = Según mi información\tenemos que buscar en
+Prefijo = Tenemos que\ir hasta
+Prefijo = Una pieza de mi\cohete cayó en
+
+Sufijo = ¿Podrías señalar dónde está?
+Sufijo = ¿Dónde queda?
+Sufijo = ¿Vamos hasta ahí?
+Sufijo = ¿Me llevás?
+Sufijo = ¿Puedes mostrarme dónde está?
+
+Correcto = ¡Muy bien!
+Correcto = ¡Genial!
+Correcto = ¡Lo encontraste!
+Correcto = ¡Sí!
+
+Mal = No, intentá de nuevo
+Mal = Aquí no está
+Mal = Parece que no es aquí
+Mal = Seguí probando...
+
+Despedida = Ahora puedo volver\a mi planeta.\¡Gracias por tu ayuda!
+Despedida = Mi nave está lista.\¡Adiós y gracias por ayudarme!
+Despedida = ¡Lo hicimos!\Estoy listo para despegar.\¡Hasta la próxima!
+
+[Municipios]
+dibujoInicial = lineasDepto
+nombreInicial = 
+Pregunta = el municipio\de Olanchito|1|Olanchito|Dale, probá de nuevo
+Pregunta = el municipio\de Arenal|1|Arenal|Dale, probá de nuevo
+Pregunta = el municipio\de Jocón|1|Jocón|Dale, probá de nuevo
+Pregunta = el municipio\de Yoro|1|Yoro|Dale, probá de nuevo
+Pregunta = el municipio\de Yorito|1|Yorito|Dale, probá de nuevo
+Pregunta = el municipio\de Sulaco|1|Sulaco|Dale, probá de nuevo
+Pregunta = el municipio\de Victoria|1|Victoria|Dale, probá de nuevo
+Pregunta = el municipio\de Morazán|1|Morazán|Dale, probá de nuevo
+Pregunta = el municipio\de El Negrito|1|El Negrito|Dale, probá de nuevo
+Pregunta = el municipio\de Santa Rita|1|Santa Rita|Dale, probá de nuevo
+Pregunta = el municipio\de El Progreso|1|El Progreso|Dale, probá de nuevo

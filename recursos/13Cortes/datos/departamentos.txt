@@ -1,0 +1,22 @@
+# Depto|codigo color (rojo)|ubic. texto x|y|rotacion nombre
+# departamentos
+Puerto Cortés|250|443|173|40
+Choloma|240|374|258|0
+Omoa|230|238|261|0
+San Pedro Sula|220|223|320|0
+La Lima|210|481|371|0
+San Manuel|200|447|443|0
+Villanueva|190|303|474|0
+Pimienta|180|417|501|0
+Potrerillos|170|406|543|0
+San Antonio de Cortés|160|251|588|0
+San Francisco de Yojoa|150|233|665|0
+Santa Cruz de Yojoa|140|315|664|0
+Lago de Yojoa|130|415|760|0
+# paises limitrofes
+Guatemala|80|99|299|45
+Santa Bárbara|70|102|512|0
+Comayagua|60|458|804|0
+Yoro|50|592|481|0
+Atlántida|40|573|216|0
+# fin

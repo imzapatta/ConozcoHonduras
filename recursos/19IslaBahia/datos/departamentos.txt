@@ -1,0 +1,8 @@
+# Depto|codigo color (rojo)|ubic. texto x|y|rotacion nombre
+# departamentos
+Utila|250|87|530|0
+Roatán|240|328|388|0
+José Santos Guardiola|230|354|272|0
+Guanaja|220|635|249|0
+Colón|80|619|649|0
+# fin

@@ -1,0 +1,37 @@
+# Depto|codigo color (rojo)|ubic. texto x|y|rotacion nombre
+# departamentos
+Lepaera|250|395|193|0
+La Unión|240|510|199|0
+San Rafael|230|537|241|-40
+La Iguala|220|484|322|0
+Belén|210|498|410|0
+Gracias|200|356|357|0
+Las Flores|190|321|322|45
+Talgua|180|291|284|0
+San Manuel Colohete|170|264|406|-40
+La Campa|165|401|433|0
+San Marcos de Caiquín|160|363|518|30
+Santa Cruz|150|429|549|40
+Erandique|140|474|619|0
+San Francisco|130|540|679|0
+Piraera|120|482|742|0
+Gualcince|110|402|687|0
+San Andrés|100|365|607|0
+San Sebastian|90|268|556|0
+Cololaca|80|202|554|0
+Guarita|70|194|618|0
+Tomalá|60|294|597|0
+Tambla|50|275|620|-25
+San Juan Guarita|40|281|660|-90
+Valladolid|30|304|687|45
+La Virtud|20|314|715|0
+Mapulaca|10|383|741|-90
+Candelaría|15|418|725|0
+Virginia|25|426|770|0
+# paises limitrofes
+Ocotepeque|35|114|436|0
+El Salvador|45|262|797|0
+Intibucá|55|592|513|90
+Santa Bárbara|65|474|107|0
+Copán|75|159|195|0
+# fin

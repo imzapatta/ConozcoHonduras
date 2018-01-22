@@ -1,0 +1,22 @@
+# Depto|codigo color (rojo)|ubic. texto x|y|rotacion nombre
+# departamentos
+Olanchito|250|564|359|0
+Arenal|240|463|402|0
+Jocón|230|399|421|-30
+Yoro|220|261|436|0
+Yorito|210|250|529|0
+Sulaco|200|271|583|0
+Victoria|190|134|523|0
+Morazán|180|165|466|90
+El Negrito|170|104|445|90
+Santa Rita|160|64|479|0
+El Progreso|150|59|438|90
+# paises limitrofes
+Cortés|80|15|382|90
+Comayagua|70|16|636|0
+Francisco Morazán|60|317|651|0
+Olancho|50|592|555|0
+Colón|40|719|268|0
+Atlántida|30|272|287|0
+Mar Caribe|20|424|213|0
+# fin

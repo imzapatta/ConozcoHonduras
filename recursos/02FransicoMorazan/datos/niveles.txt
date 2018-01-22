@@ -1,0 +1,75 @@
+# Configuración de niveles
+# Formato:
+# Prefijo indica una posible parte inicial de la pregunta
+# Sufijo indica una posible parte final de la pregunta
+# Cada nivel empieza con su nombre entre parentesis rectos
+# Variables:
+#  - dibujoInicial lista de cosas a dibujar en el mapa al inicio del nivel
+#     lineasDepto,capitales
+#  - nombreInicial lista de cosas a etiquetar en el mapa al inicio del nivel
+#     deptos,capitales
+# Cada pregunta es una linea que se inicia con Pregunta =
+# sigue el texto de la pregunta (lineas separadas con \)
+# sigue el tipo de respuesta y el ID de la respuesta correcta
+# finalmente el texto de ayuda si el estudiante se equivoca dos veces
+#  tipo de respuesta: 1 depto, 2 ciudad, 3 rio, 4 cuchilla, 5 cerro, 6 ruta
+#  ID de respuesta: string con el nombre
+#  texto de ayuda: string (lineas separadas con \)
+
+Prefijo = Tenemos que buscar\una pieza de mi nave en
+Prefijo = Hay una pieza\de mi nave en
+Prefijo = Según mi información\tenemos que buscar en
+Prefijo = Tenemos que\ir hasta
+Prefijo = Una pieza de mi\cohete cayó en
+
+Sufijo = ¿Podrías señalar dónde está?
+Sufijo = ¿Dónde queda?
+Sufijo = ¿Vamos hasta ahí?
+Sufijo = ¿Me llevás?
+Sufijo = ¿Puedes mostrarme dónde está?
+
+Correcto = ¡Muy bien!
+Correcto = ¡Genial!
+Correcto = ¡Lo encontraste!
+Correcto = ¡Sí!
+
+Mal = No, intentá de nuevo
+Mal = Aquí no está
+Mal = Parece que no es aquí
+Mal = Seguí probando...
+
+Despedida = Ahora puedo volver\a mi planeta.\¡Gracias por tu ayuda!
+Despedida = Mi nave está lista.\¡Adiós y gracias por ayudarme!
+Despedida = ¡Lo hicimos!\Estoy listo para despegar.\¡Hasta la próxima!
+
+[Municipios]
+dibujoInicial = lineasDepto
+nombreInicial = 
+Pregunta = el municipio\de Marale|1|Marale|Dale, probá de nuevo
+Pregunta = el municipio\de El Porvenir|1|El Porvenir|Dale, probá de nuevo
+Pregunta = el municipio\de San Ignacio|1|San Ignacio|Dale, probá de nuevo
+Pregunta = el municipio\de Orica|1|Orica|Dale, probá de nuevo
+Pregunta = el municipio\de Guaimaca|1|Guaimaca|Dale, probá de nuevo
+Pregunta = el municipio\de Cedros|1|Cedros|Dale, probá de nuevo
+Pregunta = el municipio\de Vallecillo|1|Vallecillo|Dale, probá de nuevo
+Pregunta = el municipio\de Talanga|1|Talanga|Dale, probá de nuevo
+Pregunta = el municipio\de Distrito Central|1|Distrito Central|Dale, probá de nuevo
+Pregunta = el municipio\de San Juan de Flores|1|San Juan de Flores|Dale, probá de nuevo
+Pregunta = el municipio\de Santa Lucía|1|Santa Lucía|Dale, probá de nuevo
+Pregunta = el municipio\de Valle de Angeles|1|Valle de Angeles|Dale, probá de nuevo
+Pregunta = el municipio\de Villa de San Francisco|1|Villa de San Francisco|Dale, probá de nuevo
+Pregunta = el municipio\de Lepaterique|1|Lepaterique|Dale, probá de nuevo
+Pregunta = el municipio\de Ojojona|1|Ojojona|Dale, probá de nuevo
+Pregunta = el municipio\de Santa Ana|1|Santa Ana|Dale, probá de nuevo
+Pregunta = el municipio\de San Buenaventura|1|San Buenaventura|Dale, probá de nuevo
+Pregunta = el municipio\de Maraita|1|Maraita|Dale, probá de nuevo
+Pregunta = el municipio\de Tatumbla|1|Tatumbla|Dale, probá de nuevo
+Pregunta = el municipio\de San Antonio de Oriente|1|San Antonio de Oriente|Dale, probá de nuevo
+Pregunta = el municipio\de Curarén|1|Curarén|Dale, probá de nuevo
+Pregunta = el municipio\de Reitoca|1|Reitoca|Dale, probá de nuevo
+Pregunta = el municipio\de Alubarén|1|Alubarén|Dale, probá de nuevo
+Pregunta = el municipio\de San Miguelito|1|San Miguelito|Dale, probá de nuevo
+Pregunta = el municipio\de La Libertad|1|La Libertad|Dale, probá de nuevo
+Pregunta = el municipio\de Sabanagrande|1|Sabanagrande|Dale, probá de nuevo
+Pregunta = el municipio\de La Venta|1|La Venta|Dale, probá de nuevo
+Pregunta = el municipio\de Nueva Armenia|1|Nueva Armenia|Dale, probá de nuevo

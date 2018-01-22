@@ -1,0 +1,24 @@
+# Depto|codigo color (rojo)|ubic. texto x|y|rotacion nombre
+# departamentos
+San José|255|106|166|0
+San Antonio de Flores|240|73|229|0
+San Isidro|230|273|231|0
+Pespire|220|187|304|0
+Orocuina|210|329|309|-45
+Apacilagua|200|435|371|0
+Morolica|190|518|299|0
+Duyure|180|578|233|0
+Marcovia|170|132|531|0
+Choluteca|160|235|414|0
+Namasigue|150|320|621|0
+Santa Ana de Yusguare|140|294|504|0
+El Corpus|130|445|470|0
+San Marcos de Colón|120|547|438|0
+Concepción de María|110|456|595|45
+El Triunfo|100|397|715|0
+# paises limitrofes
+Nicaragua|80|331|786|0
+Valle|70|80|352|0
+El Paraíso|60|447|164|90
+Francisco Morazán|50|187|121|0
+# fin

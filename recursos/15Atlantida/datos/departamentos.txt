@@ -1,0 +1,15 @@
+# Depto|codigo color (rojo)|ubic. texto x|y|rotacion nombre
+# departamentos
+Tela|250|115|391|0
+Arizona|240|249|482|90
+Esparta|230|295|355|0
+La Masica|220|359|488|-90
+San Francisco|210|426|441|-45
+El Porvenir|200|479|420|-90
+La Ceiba|190|539|408|85
+Jutiapa|180|679|396|70
+# paises limitrofes
+Yoro|80|440|600|0
+Olancho|70|613|644|0
+Mar Caribe|60|374|258|0
+# fin

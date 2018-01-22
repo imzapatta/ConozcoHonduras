@@ -1,0 +1,26 @@
+# Depto|codigo color (rojo)|ubic. texto x|y|rotacion nombre
+# departamentos
+San Juan|250|149|313|0
+San Miguelito|240|218|407|45
+Dolores|230|206|451|0
+Yamarangila|220|294|500|0
+La Esperanza|210|398|418|-35
+Intibucá|200|376|321|0
+San Francisco de Opalaca|190|264|266|-60
+San Isidro|180|428|159|0
+Jesús de Otoro|170|492|245|0
+Masaguara|160|530|331|0
+San Marcos de la Sierra|150|292|568|0
+Concepción|140|243|649|50
+Camasca|130|190|686|0
+San Antonio|120|130|748|50
+Santa Lucía|110|174|765|0
+Magdalena|100|230|734|0
+Colomoncagua|90|311|700|65
+# paises limitrofes
+El Salvador|80|382|763|0
+La Paz|70|556|555|0
+Comayagua|60|575|102|90
+Santa Bárbara|50|301|97|0
+Lempira|40|103|528|0
+# fin

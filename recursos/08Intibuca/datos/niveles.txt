@@ -1,0 +1,64 @@
+# Configuración de niveles
+# Formato:
+# Prefijo indica una posible parte inicial de la pregunta
+# Sufijo indica una posible parte final de la pregunta
+# Cada nivel empieza con su nombre entre parentesis rectos
+# Variables:
+#  - dibujoInicial lista de cosas a dibujar en el mapa al inicio del nivel
+#     lineasDepto,capitales
+#  - nombreInicial lista de cosas a etiquetar en el mapa al inicio del nivel
+#     deptos,capitales
+# Cada pregunta es una linea que se inicia con Pregunta =
+# sigue el texto de la pregunta (lineas separadas con \)
+# sigue el tipo de respuesta y el ID de la respuesta correcta
+# finalmente el texto de ayuda si el estudiante se equivoca dos veces
+#  tipo de respuesta: 1 depto, 2 ciudad, 3 rio, 4 cuchilla, 5 cerro, 6 ruta
+#  ID de respuesta: string con el nombre
+#  texto de ayuda: string (lineas separadas con \)
+
+Prefijo = Tenemos que buscar\una pieza de mi nave en
+Prefijo = Hay una pieza\de mi nave en
+Prefijo = Según mi información\tenemos que buscar en
+Prefijo = Tenemos que\ir hasta
+Prefijo = Una pieza de mi\cohete cayó en
+
+Sufijo = ¿Podrías señalar dónde está?
+Sufijo = ¿Dónde queda?
+Sufijo = ¿Vamos hasta ahí?
+Sufijo = ¿Me llevás?
+Sufijo = ¿Puedes mostrarme dónde está?
+
+Correcto = ¡Muy bien!
+Correcto = ¡Genial!
+Correcto = ¡Lo encontraste!
+Correcto = ¡Sí!
+
+Mal = No, intentá de nuevo
+Mal = Aquí no está
+Mal = Parece que no es aquí
+Mal = Seguí probando...
+
+Despedida = Ahora puedo volver\a mi planeta.\¡Gracias por tu ayuda!
+Despedida = Mi nave está lista.\¡Adiós y gracias por ayudarme!
+Despedida = ¡Lo hicimos!\Estoy listo para despegar.\¡Hasta la próxima!
+
+[Municipios]
+dibujoInicial = lineasDepto
+nombreInicial = 
+Pregunta = el municipio\de San Juan|1|San Juan|Dale, probá de nuevo
+Pregunta = el municipio\de San Miguelito|1|San Miguelito|Dale, probá de nuevo
+Pregunta = el municipio\de Dolores|1|Dolores|Dale, probá de nuevo
+Pregunta = el municipio\de Yamarangila|1|Yamarangila|Dale, probá de nuevo
+Pregunta = el municipio\de La Esperanza|1|La Esperanza|Dale, probá de nuevo
+Pregunta = el municipio\de Intibucá|1|Intibucá|Dale, probá de nuevo
+Pregunta = el municipio\de San Francisco de Opalaca|1|San Francisco de Opalaca|Dale, probá de nuevo
+Pregunta = el municipio\de San Isidro|1|San Isidro|Dale, probá de nuevo
+Pregunta = el municipio\de Jesús de Otoro|1|Jesús de Otoro|Dale, probá de nuevo
+Pregunta = el municipio\de Masaguara|1|Masaguara|Dale, probá de nuevo
+Pregunta = el municipio\de San Marcos de la Sierra|1|San Marcos de la Sierra|Dale, probá de nuevo
+Pregunta = el municipio\de Concepción|1|Concepción|Dale, probá de nuevo
+Pregunta = el municipio\de Camasca|1|Camasca|Dale, probá de nuevo
+Pregunta = el municipio\de San Antonio|1|San Antonio|Dale, probá de nuevo
+Pregunta = el municipio\de Santa Lucía|1|Santa Lucía|Dale, probá de nuevo
+Pregunta = el municipio\de Magdalena|1|Magdalena|Dale, probá de nuevo
+Pregunta = el municipio\de Colomoncagua|1|Colomoncagua|Dale, probá de nuevo

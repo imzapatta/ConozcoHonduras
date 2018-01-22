@@ -1,0 +1,75 @@
+# Configuración de niveles
+# Formato:
+# Prefijo indica una posible parte inicial de la pregunta
+# Sufijo indica una posible parte final de la pregunta
+# Cada nivel empieza con su nombre entre parentesis rectos
+# Variables:
+#  - dibujoInicial lista de cosas a dibujar en el mapa al inicio del nivel
+#     lineasDepto,capitales
+#  - nombreInicial lista de cosas a etiquetar en el mapa al inicio del nivel
+#     deptos,capitales
+# Cada pregunta es una linea que se inicia con Pregunta =
+# sigue el texto de la pregunta (lineas separadas con \)
+# sigue el tipo de respuesta y el ID de la respuesta correcta
+# finalmente el texto de ayuda si el estudiante se equivoca dos veces
+#  tipo de respuesta: 1 depto, 2 ciudad, 3 rio, 4 cuchilla, 5 cerro, 6 ruta
+#  ID de respuesta: string con el nombre
+#  texto de ayuda: string (lineas separadas con \)
+
+Prefijo = Tenemos que buscar\una pieza de mi nave en
+Prefijo = Hay una pieza\de mi nave en
+Prefijo = Según mi información\tenemos que buscar en
+Prefijo = Tenemos que\ir hasta
+Prefijo = Una pieza de mi\cohete cayó en
+
+Sufijo = ¿Podrías señalar dónde está?
+Sufijo = ¿Dónde queda?
+Sufijo = ¿Vamos hasta ahí?
+Sufijo = ¿Me llevás?
+Sufijo = ¿Puedes mostrarme dónde está?
+
+Correcto = ¡Muy bien!
+Correcto = ¡Genial!
+Correcto = ¡Lo encontraste!
+Correcto = ¡Sí!
+
+Mal = No, intentá de nuevo
+Mal = Aquí no está
+Mal = Parece que no es aquí
+Mal = Seguí probando...
+
+Despedida = Ahora puedo volver\a mi planeta.\¡Gracias por tu ayuda!
+Despedida = Mi nave está lista.\¡Adiós y gracias por ayudarme!
+Despedida = ¡Lo hicimos!\Estoy listo para despegar.\¡Hasta la próxima!
+
+[Municipios]
+dibujoInicial = lineasDepto
+nombreInicial = 
+Pregunta = el municipio\de Quimistán|1|Quimistán|Dale, probá de nuevo
+Pregunta = el municipio\de Azacualpa|1|Azacualpa|Dale, probá de nuevo
+Pregunta = el municipio\de Nueva Frontera|1|Nueva Frontera|Dale, probá de nuevo
+Pregunta = el municipio\de Macuelizo|1|Macuelizo|Dale, probá de nuevo
+Pregunta = el municipio\de Protección|1|Protección|Dale, probá de nuevo
+Pregunta = el municipio\de Naranjito|1|Naranjito|Dale, probá de nuevo
+Pregunta = el municipio\de Atima|1|Atima|Dale, probá de nuevo
+Pregunta = el municipio\de San Nicolás|1|San Nicolás|Dale, probá de nuevo
+Pregunta = el municipio\de Nueva Celilac|1|Nueva Celilac|Dale, probá de nuevo
+Pregunta = el municipio\de San José de Colinas|1|San José de Colinas|Dale, probá de nuevo
+Pregunta = el municipio\de San Luis|1|San Luis|Dale, probá de nuevo
+Pregunta = el municipio\de San Marcos|1|San Marcos|Dale, probá de nuevo
+Pregunta = el municipio\de Petoa|1|Petoa|Dale, probá de nuevo
+Pregunta = el municipio\de Concepción del Norte|1|Concepción del Norte|Dale, probá de nuevo
+Pregunta = el municipio\de Chinda|1|Chinda|Dale, probá de nuevo
+Pregunta = el municipio\de Trinidad de Copán|1|Trinidad de Copán|Dale, probá de nuevo
+Pregunta = el municipio\de Llama|1|Llama|Dale, probá de nuevo
+Pregunta = el municipio\de Gualala|1|Gualala|Dale, probá de nuevo
+Pregunta = el municipio\de Santa Bárbara|1|Santa Bárbara|Dale, probá de nuevo
+Pregunta = el municipio\de San Vicente Centenario|1|San Vicente Centenario|Dale, probá de nuevo
+Pregunta = el municipio\de Arada|1|Arada|Dale, probá de nuevo
+Pregunta = el municipio\de El Nispero|1|El Nispero|Dale, probá de nuevo
+Pregunta = el municipio\de Santa Rita|1|Santa Rita|Dale, probá de nuevo
+Pregunta = el municipio\de San Francisco de Ojuera|1|San Francisco de Ojuera|Dale, probá de nuevo
+Pregunta = el municipio\de San Pedro Zacapa|1|San Pedro Zacapa|Dale, probá de nuevo
+Pregunta = el municipio\de Las Vegas|1|Las Vegas|Dale, probá de nuevo
+Pregunta = el municipio\de Concepción del Sur|1|Concepción del Sur|Dale, probá de nuevo
+Pregunta = el municipio\de Ceguaca|1|Ceguaca|Dale, probá de nuevo

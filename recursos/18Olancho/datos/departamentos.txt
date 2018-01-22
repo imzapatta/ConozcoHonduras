@@ -1,0 +1,33 @@
+# Depto|codigo color (rojo)|ubic. texto x|y|rotacion nombre
+# departamentos
+Patuca|250|345|582|0
+Catacamas|240|466|510|0
+Dulce Nombre de Culmi|230|472|367|0
+San Esteban|220|395|302|0
+Gualaco|210|301|327|0
+Guata|200|230|341|0
+Esquipulas del Norte|190|182|316|45
+Jano|180|197|351|-40
+La Unión|170|153|329|-65
+Mangulile|160|104|369|75
+Yocón|150|105|398|0
+El Rosario|140|129|428|0
+Guayape|130|87|447|0
+Salamá|120|157|463|35
+Concordia|110|122|506|0
+Campamento|100|125|540|0
+Juticalpa|90|244|534|0
+San Francisco de Becerra|80|265|496|0
+Santa María del Real|70|377|450|0
+San Francisco de la Paz|60|322|428|0
+Guarizama|50|279|404|0
+Manto|40|221|423|-25
+Silca|30|194|468|0
+# paises limitrofes
+Francisco Mórazan|20|31|599|90
+El Paraíso|10|202|640|0
+Nicaragua|15|634|563|0
+Gracias a Dios|25|728|245|-90
+Colón|35|518|233|0
+Yoro|45|50|288|0
+# fin

@@ -1,0 +1,31 @@
+# Depto|codigo color (rojo)|ubic. texto x|y|rotacion nombre
+# departamentos
+San Juan de Opoa|250|548|538|0
+Santa Rosa de Copán|240|416|551|-25
+Cucuyagua|230|429|668|0
+San Pedro|220|434|711|0
+Corquín|210|423|765|0
+La Unión|200|318|637|0
+Cabañas|190|217|569|0
+Copán Ruinas|180|136|488|82
+Santa Rita|170|224|451|0
+San Agustín|160|349|540|0
+Concepción|150|365|440|-40
+San Jerónimo|140|357|401|0
+El Paraíso|130|271|277|0
+San Antonio|120|384|321|0
+Florida|110|428|201|45
+La Jigua|100|516|244|0
+Nueva Arcadia|90|526|306|0
+San Nicolas|80|504|371|0
+Trinidad|70|496|404|0
+San José|60|537|449|0
+Veracruz|50|499|475|0
+Dolores|40|419|437|0
+Dulce Nombre|30|454|500|0
+# paises limitrofes
+Ocotepeque|20|182|775|0
+Lempira|10|604|686|0
+Santa Bárbara|15|690|360|90
+Guatemala|25|130|275|0
+# fin

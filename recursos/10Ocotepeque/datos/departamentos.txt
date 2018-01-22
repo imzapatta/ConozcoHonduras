@@ -1,0 +1,24 @@
+# Depto|codigo color (rojo)|ubic. texto x|y|rotacion nombre
+# departamentos
+Santa Fé|250|110|459|45
+Ocotepeque|240|164|515|0
+Sinuapa|230|293|477|0
+Concepción|220|197|382|0
+Dolores Merendón|210|260|396|0
+Fraternidad|200|328|346|0
+San Jorge|190|289|304|0
+San Fernando|180|304|240|0
+La Encarnación|170|349|280|25
+Lucerna|160|429|297|-45
+Sensenti|150|469|426|0
+La Labor|140|365|433|0
+San Francisco del Valle|130|371|523|25
+San Marcos|120|460|557|0
+Mercedes|110|407|610|0
+Belén Gualcho|100|589|476|0
+# paises limitrofes
+Guatemala|80|99|296|0
+El Salvador|70|162|646|0
+Lempira|60|572|631|0
+Copán|50|494|242|0
+# fin

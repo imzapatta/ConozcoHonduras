@@ -1,0 +1,70 @@
+# Configuración de niveles
+# Formato:
+# Prefijo indica una posible parte inicial de la pregunta
+# Sufijo indica una posible parte final de la pregunta
+# Cada nivel empieza con su nombre entre parentesis rectos
+# Variables:
+#  - dibujoInicial lista de cosas a dibujar en el mapa al inicio del nivel
+#     lineasDepto,capitales
+#  - nombreInicial lista de cosas a etiquetar en el mapa al inicio del nivel
+#     deptos,capitales
+# Cada pregunta es una linea que se inicia con Pregunta =
+# sigue el texto de la pregunta (lineas separadas con \)
+# sigue el tipo de respuesta y el ID de la respuesta correcta
+# finalmente el texto de ayuda si el estudiante se equivoca dos veces
+#  tipo de respuesta: 1 depto, 2 ciudad, 3 rio, 4 cuchilla, 5 cerro, 6 ruta
+#  ID de respuesta: string con el nombre
+#  texto de ayuda: string (lineas separadas con \)
+
+Prefijo = Tenemos que buscar\una pieza de mi nave en
+Prefijo = Hay una pieza\de mi nave en
+Prefijo = Según mi información\tenemos que buscar en
+Prefijo = Tenemos que\ir hasta
+Prefijo = Una pieza de mi\cohete cayó en
+
+Sufijo = ¿Podrías señalar dónde está?
+Sufijo = ¿Dónde queda?
+Sufijo = ¿Vamos hasta ahí?
+Sufijo = ¿Me llevás?
+Sufijo = ¿Puedes mostrarme dónde está?
+
+Correcto = ¡Muy bien!
+Correcto = ¡Genial!
+Correcto = ¡Lo encontraste!
+Correcto = ¡Sí!
+
+Mal = No, intentá de nuevo
+Mal = Aquí no está
+Mal = Parece que no es aquí
+Mal = Seguí probando...
+
+Despedida = Ahora puedo volver\a mi planeta.\¡Gracias por tu ayuda!
+Despedida = Mi nave está lista.\¡Adiós y gracias por ayudarme!
+Despedida = ¡Lo hicimos!\Estoy listo para despegar.\¡Hasta la próxima!
+
+[Municipios]
+dibujoInicial = lineasDepto
+nombreInicial = 
+Pregunta = el municipio\de Patuca|1|Patuca|Dale, probá de nuevo
+Pregunta = el municipio\de Catacamas|1|Catacamas|Dale, probá de nuevo
+Pregunta = el municipio\de Dulce Nombre de Culmi|1|Dulce Nombre de Culmi|Dale, probá de nuevo
+Pregunta = el municipio\de San Esteban|1|San Esteban|Dale, probá de nuevo
+Pregunta = el municipio\de Gualaco|1|Gualaco|Dale, probá de nuevo
+Pregunta = el municipio\de Guata|1|Guata|Dale, probá de nuevo
+Pregunta = el municipio\de Esquipulas del Norte|1|Esquipulas del Norte|Dale, probá de nuevo
+Pregunta = el municipio\de Jano|1|Jano|Dale, probá de nuevo
+Pregunta = el municipio\de La Unión|1|La Unión|Dale, probá de nuevo
+Pregunta = el municipio\de Mangulile|1|Mangulile|Dale, probá de nuevo
+Pregunta = el municipio\de Yocón|1|Yocón|Dale, probá de nuevo
+Pregunta = el municipio\de El Rosario|1|El Rosario|Dale, probá de nuevo
+Pregunta = el municipio\de Guayape|1|Guayape|Dale, probá de nuevo
+Pregunta = el municipio\de Salamá|1|Salamá|Dale, probá de nuevo
+Pregunta = el municipio\de Concordia|1|Concordia|Dale, probá de nuevo
+Pregunta = el municipio\de Campamento|1|Campamento|Dale, probá de nuevo
+Pregunta = el municipio\de Juticalpa|1|Juticalpa|Dale, probá de nuevo
+Pregunta = el municipio\de San Francisco de Becerra|1|San Francisco de Becerra|Dale, probá de nuevo
+Pregunta = el municipio\de Santa María del Real|1|Santa María del Real|Dale, probá de nuevo
+Pregunta = el municipio\de San Francisco de la Paz|1|San Francisco de la Paz|Dale, probá de nuevo
+Pregunta = el municipio\de Guarizama|1|Guarizama|Dale, probá de nuevo
+Pregunta = el municipio\de Manto|1|Manto|Dale, probá de nuevo
+Pregunta = el municipio\de Silca|1|Silca|Dale, probá de nuevo

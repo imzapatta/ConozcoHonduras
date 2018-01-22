@@ -1,0 +1,38 @@
+# Depto|codigo color (rojo)|ubic. texto x|y|rotacion nombre
+# departamentos
+Quimistán|250|364|202|0
+Azacualpa|240|196|242|0
+Nueva Frontera|230|98|316|0
+Macuelizo|220|190|377|0
+Protección|210|156|497|0
+Naranjito|200|169|560|0
+Atima|190|286|608|0
+San Nicolás|180|365|625|35
+Nueva Celilac|170|349|555|0
+San José de Colinas|160|347|500|0
+San Luis|150|277|440|0
+San Marcos|140|320|329|0
+Petoa|130|466|328|0
+Concepción del Norte|120|547|374|0
+Chinda|110|553|440|0
+Trinidad de Copán|100|373|396|0
+Llama|90|573|497|0
+Gualala|80|526|538|0
+Santa Bárbara|70|536|566|0
+San Vicente Centenario|60|376|620|0
+Arada|50|415|659|0
+El Nispero|40|411|728|40
+Santa Rita|30|443|751|0
+San Francisco de Ojuera|20|376|786|0
+San Pedro Zacapa|10|595|733|35
+Las Vegas|15|628|618|0
+Concepción del Sur|25|548|728|45
+Ceguaca|35|511|684|48
+# paises limitrofes
+Copán|45|94|611|90
+Lempira|55|203|725|0
+Intibucá|65|450|819|0
+Comayagua|75|693|809|90
+Cortés|85|633|237|0
+Guatemala|95|100|247|45
+# fin

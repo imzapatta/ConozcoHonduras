@@ -1,0 +1,26 @@
+# Depto|codigo color (rojo)|ubic. texto x|y|rotacion nombre
+# departamentos
+Gracias a Dios|255|580|405|0
+Colón|240|445|345|0
+Atlántida|230|295|355|0
+Cortés|220|215|375|-90
+Santa Bárbara|210|170|385|-45
+Copán|200|115|435|0
+Occotepeque|190|80|483|85
+Lempira|180|155|485|70
+Intibucá|170|183|510|60
+La Paz|160|220|520|0
+Valle|150|255|570|0
+Choluteca|140|315|600|0
+El Paraíso|130|370|517|0
+Olancho|120|410|440|0
+Yoro|110|290|395|0
+Comayagua|100|242|454|0
+Francisco Morazán|90|295|490|85
+Islas de Bahía|40|355|295|0
+# paises limitrofes
+Nicaragua|80|440|600|0
+El Salvador|70|140|570|0
+Guatemala|60|80|360|90
+Belice|50|130|275|0
+# fin

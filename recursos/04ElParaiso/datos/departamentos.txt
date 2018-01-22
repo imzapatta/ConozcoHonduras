@@ -1,0 +1,27 @@
+# Depto|codigo color (rojo)|ubic. texto x|y|rotacion nombre
+# departamentos
+Trojes|250|655|405|0
+Danlí|240|400|360|0
+Teupasenti|230|262|275|0
+El Paraíso|220|330|500|0
+San Matías|210|270|440|0
+Jacaleapa|200|275|410|0
+Potrerillos|190|241|365|30
+Morocelí|180|190|340|30
+Yuscarán|170|179|441|-36
+Alauca|160|255|495|-40
+Guinope|150|120|470|0
+Oropolí|140|190|500|-25
+Yauyupe|130|66|535|0
+San Lucas|120|130|530|-30
+San Antonio de Flores|110|250|555|0
+Texiguat|100|90|570|0
+Vado Ancho|90|145|595|0
+Soledad|80|40|580|-30
+Liure|70|90|630|0
+# paises limitrofes
+Nicaragua|60|420|590|0
+Olancho|50|562|246|0
+Francisco Morazán|40|50|315|90
+Choluteca|30|185|653|0
+# fin

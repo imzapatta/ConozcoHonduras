@@ -1,0 +1,39 @@
+# Depto|codigo color (rojo)|ubic. texto x|y|rotacion nombre
+# departamentos
+Marale|255|450|146|0
+El Porvenir|240|380|265|65
+San Ignacio|230|460|230|-70
+Orica|220|507|200|-70
+Guaimaca|210|563|354|0
+Cedros|200|420|340|0
+Vallecillo|190|280|357|0
+Talanga|180|450|402|0
+Distrito Central|170|370|515|0
+San Juan de Flores|160|540|475|0
+Santa Lucía|150|400|560|0
+Valle de Angeles|140|490|535|0
+Villa de San Francisco|130|590|510|0
+Lepaterique|120|250|595|0
+Ojojona|110|320|643|0
+Santa Ana|100|370|660|90
+San Buenaventura|90|400|665|-90
+Maraita|80|475|700|0
+Tatumbla|70|457|620|0
+San Antonio de Oriente|60|540|600|0
+Curarén|50|195|690|60
+Reitoca|40|270|675|-25
+Alubarén|30|253|715|-40
+San Miguelito|20|268|760|-40
+La Libertad|10|240|770|-40
+Sabanagrande|5|325|720|-25
+La Venta|15|330|765|0
+Nueva Armenia|25|485|765|0
+# paises limitrofes
+Olancho|35|600|200|0
+El Paraíso|45|585|685|0
+Choluteca|55|340|815|0
+Valle|65|150|790|0
+La Paz|75|136|640|0
+Comayagua|85|157|277|0
+Yoro|95|291|105|0
+# fin
